@@ -8,7 +8,6 @@ To implement a perceptron for classification using Python<BR>
 <H3>Register no: 212223240167</H3>
 <H3>Date : 11/09/2025</H3>
 
-
 # EQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
@@ -27,7 +26,6 @@ f(x)=w.x+b
 A threshold function, usually Heaviside or sign functions, maps the scalar value to a binary output:
 
  
-
 
 <img width="283" alt="image" src="https://github.com/Lavanyajoyce/Ex-2--NN/assets/112920679/c6d2bd42-3ec1-42c1-8662-899fa450f483">
 
@@ -128,7 +126,6 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/ff59da54-8861-4c43-a445-d469f26c1337)
 
 ![image](https://github.com/user-attachments/assets/86f35ed7-3e58-4941-a90b-0da993de19ff)
-
 
 # RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
